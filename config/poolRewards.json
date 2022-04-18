@@ -19,7 +19,7 @@
     },
     "MEDIUM": {
         "difficulty": 75000,
-        "reward": 0.0012811,
+        "reward": 0.012811,
         "max_hashrate": 500000,
         "kolka_decrease_perc": 80
     },
@@ -37,7 +37,7 @@
     },
     "ESP8266": {
         "difficulty": 1000,
-        "reward": 0.0045,
+        "reward": 0.045,
         "max_hashrate": 13000,
         "kolka_decrease_perc": 96
     },
